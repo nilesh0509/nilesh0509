@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm [Your Name] 👋
+# Hello !! I'm Nilesh 👋
 
 <!-- ![Profile views](https://gpvc.arturio.dev/your-github-username) -->
 
@@ -44,6 +44,23 @@ Welcome to my GitHub profile! I'm passionate about Coding, and I love working on
 <!--## 📈 GitHub Stats
 ![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh0509&show_icons=true&theme=radical) -->
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nilesh0509&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100% " />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0509&theme=nightowl&hide_border=true&layout=compact" align="left" style="width: 90%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+
+
 <!-- ## 📂 Projects -->
 <!-- - [Project 1](https://github.com/your-github-username/project1): Brief description of Project 1 -->
 <!-- - [Project 2](https://github.com/your-github-username/project2): Brief description of Project 2 -->
@@ -64,5 +81,9 @@ Welcome to my GitHub profile! I'm passionate about Coding, and I love working on
 <!-- - 🏅 [Achievement 3](link-to-achievement3) -->
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😄
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=nilesh0509&&style=flat-square)  
 
 
