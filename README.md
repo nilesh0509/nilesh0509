@@ -84,6 +84,6 @@ Thanks for visiting my profile! Feel free to reach out if you want to connect or
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=nilesh0509&&style=flat-square)  
+<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=nilesh0509&&style=flat-square) --> 
 
 
