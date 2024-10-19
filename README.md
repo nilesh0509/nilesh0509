@@ -33,18 +33,23 @@ Welcome to my GitHub profile! I'm passionate about Coding, and I love working on
 
 ## 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <!-- ![React](https://img.shields.io/badge/-React-000?&logo=React) -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
 <!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 <!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) -->
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&logoColor=00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <!--## 📈 GitHub Stats
 ![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh0509&show_icons=true&theme=radical) -->
 
-## Github Stats  
+## Github Stats 
+
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nilesh0509&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100% " />
@@ -56,9 +61,6 @@ Welcome to my GitHub profile! I'm passionate about Coding, and I love working on
 </td></tr></table>  
 
 <br/>  
-
-  
-
 
 
 <!-- ## 📂 Projects -->
