@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I am passionate about building web and mobile applications that make a real impact.
 
 ## 🚀 About Me
-- 🎓 B.Sc. Computer Science | Sathyabama Institute of Science and Technology (CGPA: 8.10)
+
+- 🎓 B.Sc. Computer Science | Sathyabama Institute of Science and Technology (CGPA: 8.13)
 - 🌱 Currently learning advanced JavaScript and backend development
 - 💻 I love working on full-stack projects using **React Native, Node.js, Express.js, and MongoDB**
 - 💬 Ask me about Web Development, Mobile Development, and JavaScript
