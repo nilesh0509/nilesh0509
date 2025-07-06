@@ -1,91 +1,64 @@
+# 👋 Hello!! I'm Nilesh
 
-
-<!--
-**nilesh0509/nilesh0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# Hello !! I'm Nilesh 👋
-
-<!-- ![Profile views](https://gpvc.arturio.dev/your-github-username) -->
-
-Welcome to my GitHub profile! I'm passionate about Coding, and I love working on projects related to Software.
+Welcome to my GitHub profile! I am passionate about building web and mobile applications that make a real impact.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning JavaScript
-<!-- - 👯 I’m looking to collaborate on [projects or fields you're interested in collaborating on] -->
-<!-- - 🤔 I’m looking for help with [specific area where you need help] -->
-- 💬 Ask me about Web Development
-- 📫 How to reach me: nilesh12105@gmail.com
-- ⚡ Fun fact: I'm always in funny Mood 😇
+- 🎓 B.Sc. Computer Science | Sathyabama Institute of Science and Technology (CGPA: 8.10)
+- 🌱 Currently learning advanced JavaScript and backend development
+- 💻 I love working on full-stack projects using **React Native, Node.js, Express.js, and MongoDB**
+- 💬 Ask me about Web Development, Mobile Development, and JavaScript
+- ⚡ Fun fact: I'm always in a funny mood 😇
 
 ## 🛠️ Technologies and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-<!-- ![React](https://img.shields.io/badge/-React-000?&logo=React) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) -->
-<!-- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) -->
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify&logoColor=00C7B7)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000?&logo=Visual-Studio-Code)
 
-<!--## 📈 GitHub Stats
-![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh0509&show_icons=true&theme=radical) -->
+## 💼 Featured Projects
+- 🐾 **PawPal** – *The Ultimate Pet Care & Adoption Platform*
+  - Full-stack mobile app for pet adoption, health tracking, donations, and real-time chat
+  - Technologies: React Native, Node.js, Express.js, MongoDB, JWT, Socket.io
 
-## Github Stats 
+- 🧮 **EduSpark** – *Math Learning Reels App*
+  - Mobile platform to learn math through short videos in Hinglish
+  - Features video upload, hashtag search, likes/comments
+  - Technologies: React Native, Firebase, Node.js
 
-<table><tr><td valign="top" width="50%">
+- 🎨 **Text to Image Generation Web App**
+  - Web app to generate AI images from text prompts
+  - Technologies: React.js, Node.js, Express.js
 
-<img src="https://github-readme-stats.vercel.app/api?username=nilesh0509&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100% " />
+## 🏆 Achievements & Certifications
+- 🥇 **JPMorgan Chase & Co.** – Software Engineering Virtual Experience (Forage)
+- 🥇 **Goldman Sachs** – Software Engineering Virtual Experience (Forage)
+- 🥇 **Accenture UK** – Developer & Technology Virtual Experience (Forage)
+- 🏅 **Python Certificate** – [HackerRank](https://www.hackerrank.com/certificates/714689c42f2a)
+- 🏅 **Problem Solving Certificate** – [HackerRank](https://www.hackerrank.com/certificates/714689c42f2a)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0509&theme=nightowl&hide_border=true&layout=compact" align="left" style="width: 90%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
-<!-- ## 📂 Projects -->
-<!-- - [Project 1](https://github.com/your-github-username/project1): Brief description of Project 1 -->
-<!-- - [Project 2](https://github.com/your-github-username/project2): Brief description of Project 2 -->
-<!-- - [Project 3](https://github.com/your-github-username/project3): Brief description of Project 3 -->
-
-<!-- ## 📝 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/nilesh-undefined-59a7a3272/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-twitter-Nilesh12105)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/nilesh12105)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/Nilesh12105)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:nilesh12105@gmail.com)
 
-## 🏆 Achievements
-- 🏅 Python (https://www.hackerrank.com/certificates/714689c42f2a)
-- 🏅 Problem Solving (https://www.hackerrank.com/certificates/714689c42f2a)
-<!-- - 🏅 [Achievement 3](link-to-achievement3) -->
+## 📊 GitHub Stats
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=nilesh0509&theme=nightowl&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh0509&theme=nightowl&hide_border=true&layout=compact" align="left" style="width: 90%" />
+</td></tr></table>
 
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😄
+---
 
-<br/>  
-
-<!-- ![Profile views counter](https://komarev.com/ghpvc/?username=nilesh0509&&style=flat-square) --> 
-
-
+Thanks for visiting my profile! Feel free to connect or reach out if you’d like to collaborate. 😄
